@@ -1,0 +1,23 @@
+{
+  "name": "x-factor",
+  "version": "1.0.0",
+  "description": "search out nre planet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityajha0001/X-FACTOR.git"
+  },
+  "author": "aditya jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityajha0001/X-FACTOR/issues"
+  },
+  "homepage": "https://github.com/adityajha0001/X-FACTOR#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.2",
+    "node": "^19.1.0"
+  }
+}
